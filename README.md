@@ -4,7 +4,7 @@ An end to end Power BI project that turns raw Excel sales data into an interacti
 
 ## Dashboard Preview
 
-![Executive Sale Dashboard](Images/Executive%20Sale%20Dashboard.png)
+![Executive Sale Dashboard](Executive_Sales_Dashboard_PowerBI/Images/Executive%20Sale%20Dashboard.png)
 
 ## Project Objective
 
